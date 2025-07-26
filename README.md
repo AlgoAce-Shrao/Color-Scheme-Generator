@@ -13,7 +13,7 @@ A modern, interactive web application that allows users to dynamically change th
 
 ## 🌐 Live Demo
 
-**[View Live Demo](https://your-vercel-app-url.vercel.app)**
+**[View Live Demo](https://color-scheme-generator-black.vercel.app/)**
 
 Experience the Color Scheme Switcher in action! Click the link above to access the live deployment hosted on Vercel.
 
